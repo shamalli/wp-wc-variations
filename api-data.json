@@ -1,0 +1,106 @@
+{
+  "products": {
+    "64": {
+      "combinations": {
+        "red_S": {
+          "price": 1500,
+          "stock": 5,
+          "image": "https://example.com/images/red-s.jpg",
+          "available": true
+        },
+        "red_M": {
+          "price": 1600,
+          "stock": 0,
+          "image": "https://example.com/images/red-m.jpg",
+          "available": false
+        },
+        "green_S": {
+          "price": 1700,
+          "stock": 0,
+          "image": "https://example.com/images/green-s.jpg",
+          "available": false
+        },
+        "green_M": {
+          "price": 1800,
+          "stock": 3,
+          "image": "https://example.com/images/green-m.jpg",
+          "available": true
+        },
+        "green_L": {
+          "price": 2000,
+          "stock": 8,
+          "image": "https://example.com/images/green-l.jpg",
+          "available": true
+        },
+        "yellow_L": {
+          "price": 1900,
+          "stock": 0,
+          "image": "https://example.com/images/yellow-l.jpg",
+          "available": false
+        }
+      },
+      "compatibility": {
+        "red": ["S", "M"],
+        "green": ["S", "M", "L"],
+        "yellow": ["S", "L"]
+      }
+    },
+    "67": {
+      "combinations": {
+        "red_S": {
+          "price": 1500,
+          "stock": 5,
+          "image": "https://example.com/images/red-s.jpg",
+          "available": true
+        },
+        "red_M": {
+          "price": 1600,
+          "stock": 30,
+          "image": "https://example.com/images/red-m.jpg",
+          "available": true
+        },
+        "green_S": {
+          "price": 1700,
+          "stock": 20,
+          "image": "https://example.com/images/green-s.jpg",
+          "available": true
+        },
+        "green_M": {
+          "price": 1800,
+          "stock": 3,
+          "image": "https://example.com/images/green-m.jpg",
+          "available": true
+        },
+        "green_L": {
+          "price": 2000,
+          "stock": 8,
+          "image": "https://example.com/images/green-l.jpg",
+          "available": true
+        },
+        "yellow_S": {
+          "price": 2900,
+          "stock": 31,
+          "image": "https://example.com/images/yellow-s.jpg",
+          "available": true
+        },
+        "yellow_M": {
+          "price": 1100,
+          "stock": 13,
+          "image": "https://example.com/images/yellow-m.jpg",
+          "available": true
+        },
+        "yellow_L": {
+          "price": 1900,
+          "stock": 3,
+          "image": "https://example.com/images/yellow-l.jpg",
+          "available": true
+        }
+      },
+      "compatibility": {
+        "red": ["S", "M"],
+        "green": ["S", "M", "L"],
+        "yellow": ["S", "M", "L"]
+      }
+    }
+  }
+}
