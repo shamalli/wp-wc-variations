@@ -40,7 +40,7 @@
     git clone https://github.com/shamalli/wp-wc-variations.git
 
     добавьте строчку в functions.php дочерней темы
-    `include_once "wc-variations/functions.php";`
+    include_once "wc-variations/functions.php";
 
     копировать api-data.json в корень WordPress сайта
 
